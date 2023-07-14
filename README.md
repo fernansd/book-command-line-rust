@@ -8,3 +8,6 @@ Exercises will me separated into folders, the name of the folder follows this fo
 ```
 [chapter]-[exercise-name]
 ```
+
+The folder `command-line-rust` contains the repository provided by the author with data and solutions to the proposed exercises.
+
