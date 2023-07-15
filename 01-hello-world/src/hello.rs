@@ -1,3 +1,4 @@
 fn main () {
-    println!("Hello, world!");
+    println!("Hello, world!"); // OK test
+    //println!("Hello, world!!!"); // KO test
 }
